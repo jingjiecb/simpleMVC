@@ -1,0 +1,17 @@
+# IntelliJ files
+*.iml
+.idea/
+
+#Python cache
+
+__pycache__/
+
+# downloadResult
+result/**
+out/
+
+# jar
+/src/META-INF/
+
+# only for this project
+data.nb
